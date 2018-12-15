@@ -65,7 +65,7 @@
       <bpmn:sequenceFlow id="SequenceFlow_0l4yzmr" sourceRef="Task_1m7rbws" targetRef="Task_0i34ndv" />
       <bpmn:sequenceFlow id="SequenceFlow_1arv1i7" sourceRef="Task_0i34ndv" targetRef="Task_1ffjlmh" />
     </bpmn:subProcess>
-    <bpmn:task id="Task_0jg4uu4" name="Inverstigate&#10;Changes">
+    <bpmn:task id="Task_0jg4uu4" name="Investigate&#10;Changes">
       <bpmn:incoming>SequenceFlow_0rpy6re</bpmn:incoming>
       <bpmn:outgoing>SequenceFlow_0kjpfg4</bpmn:outgoing>
       <bpmn:dataOutputAssociation id="DataOutputAssociation_15jkabx">
